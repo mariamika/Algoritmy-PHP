@@ -1,0 +1,107 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#fff;
+}
+header{
+    text-align:center;
+    margin-bottom:30px;
+    background: #E0E0F8;
+    padding:10px;
+}
+h1 {
+    margin-bottom:10px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: 'lato-regular', sans-serif;
+}
+header span{
+    margin-bottom:10px;
+    color:#262626;
+    font-size:16px;
+    font-style:italic;
+}
+#dirs_files {
+	width: 80vh;
+	background-color: #E0E0F8;
+	padding: 20px;
+	margin: auto;
+}
+h2 {
+    font-family: Ubuntu, sans-serif;
+    font-size: 20px;
+}
+td{
+	border-bottom:1px solid #969696;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+img{
+    margin-right:5px;
+}
+a {
+    color:#292929;
+    font-weight:bold;
+}
+footer {
+    width:1000px;
+    margin:40px auto 0 auto;
+    text-align:center;
+    clear:both;
+}
+footer hr{
+    height:2px;
+    border:0;
+    background-color:#fff;
+}
+
+/*------------------------------------------------------------------------*/
+
+
+.form_submit{
+	background: url("../img/submit.jpg") no-repeat 0 -45px;
+	border:none;
+	width:150px;
+	height:45px;
+}
+.form_submit:hover {
+	background-position:0 3px;
+}
+.form_text {
+	border:1px solid #696969;
+	-moz-border-radius:10px;
+	height:30px;
+	width:200px;
+	padding-left:20px;
+	background-color:#f6f6f6;
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+#ex {
+	background:url("../img/ex.jpg") no-repeat 0 -47px;
+	border:none;
+	width:82px;
+	height:47px;
+	padding-left:50px;
+}
+#ex:hover {
+	background-position:0 2px;
+}
+#ex a {
+	color:#292929;
+	font-weight:bold;
+}
+#del {
+	background:url("../img/del.jpg") no-repeat 0 -47px;
+	border:none;
+	width:82px;
+	height:47px;
+	padding-left:50px;
+}
+#del:hover {
+	background-position:0 2px;
+}
+#del a {
+	color:#292929;
+	font-weight:bold;
+}
