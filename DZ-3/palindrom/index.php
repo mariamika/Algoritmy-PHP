@@ -18,7 +18,7 @@ function palindrom_($str)
         if($leftArr[$l] == $rightArr[$r])
         {$l++; $r--;}
         else
-        {echo "Строка не является полиндромом! <br>"; exit;}
+        {echo "Строка не является палиндромом! <br>"; exit;}
     }
     return "Строка является палиндромом! Ура) <br>";
 }
