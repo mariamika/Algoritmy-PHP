@@ -1,0 +1,14 @@
+INSERT INTO closure_table.menu (idEntry, name) VALUES (1, 'Техника для дома');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (2, 'Климатическая техника');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (3, 'Обогревательные приборы');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (4, 'Конвекторы');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (5, 'Радиаторы');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (6, 'Пылесосы');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (7, 'Пылососы с пылесборником');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (8, 'Пылесосы с контейнером для пыли');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (9, 'Моющие пылесосы');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (10, 'Роботы-пылесосы');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (11, 'Товары для ухода за одеждой');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (12, 'Утюги');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (13, 'Отпариватели');
+INSERT INTO closure_table.menu (idEntry, name) VALUES (14, 'Швейные машины');
